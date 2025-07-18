@@ -24,7 +24,7 @@ train_acc = accuracy_score(model.predict(X_train), Y_train)
 test_acc = accuracy_score(model.predict(X_test),Y_test)
 
 
-#web app
+#web app used to visualize
 
 st.title("credit card fraud detection model")
 input_df = st.text_input('enter all required feature values')
