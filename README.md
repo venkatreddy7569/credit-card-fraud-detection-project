@@ -33,7 +33,7 @@ This project uses machine learning techniques to detect fraudulent transactions 
 - Imbalanced-learn (for SMOTE or under-sampling)
 
 ## 📁 Project Structure
-
+```
 credit-card-fraud-detection
 ├── data/ # Dataset files
 ├── notebooks/ # Jupyter notebooks for training & testing
@@ -41,7 +41,7 @@ credit-card-fraud-detection
 ├── fraud_detection.py # Main script
 ├── requirements.txt # Dependencies
 ├── README.md # Project description
-
+```
 
 ## 🚀 How to Run
 
